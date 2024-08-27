@@ -10,4 +10,4 @@ public class StaticVariableExample {
         System.out.println(StaticVariableExample.a); // with the help of classname as reference
     }
 }
-// when local and global variable is of same name.
+// when local and global variable is of same name
