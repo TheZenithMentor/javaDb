@@ -12,7 +12,7 @@ public class NSBExample {
         NSBExample ref=new NSBExample();
     }
 
-    // ns block
+    // ns block --> Nsm --> class area
     {
         System.out.println("NSB-2");
     }
